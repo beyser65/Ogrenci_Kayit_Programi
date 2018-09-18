@@ -1,0 +1,30 @@
+c:\users\serhat şos\documents\visual studio 2017\Projects\Öğrenci Takip Programı 1.0\Öğrenci Takip Programı 1.0\bin\Debug\Öğrenci Takip Programı 1.0.exe.config
+c:\users\serhat şos\documents\visual studio 2017\Projects\Öğrenci Takip Programı 1.0\Öğrenci Takip Programı 1.0\bin\Debug\Öğrenci Takip Programı 1.0.exe
+c:\users\serhat şos\documents\visual studio 2017\Projects\Öğrenci Takip Programı 1.0\Öğrenci Takip Programı 1.0\bin\Debug\Öğrenci Takip Programı 1.0.pdb
+c:\users\serhat şos\documents\visual studio 2017\Projects\Öğrenci Takip Programı 1.0\Öğrenci Takip Programı 1.0\obj\Debug\Öğrenci Takip Programı 1.0.csprojResolveAssemblyReference.cache
+c:\users\serhat şos\documents\visual studio 2017\Projects\Öğrenci Takip Programı 1.0\Öğrenci Takip Programı 1.0\obj\Debug\Öğrenci_Takip_Programı_1._0.Form1.resources
+c:\users\serhat şos\documents\visual studio 2017\Projects\Öğrenci Takip Programı 1.0\Öğrenci Takip Programı 1.0\obj\Debug\Öğrenci_Takip_Programı_1._0.Properties.Resources.resources
+c:\users\serhat şos\documents\visual studio 2017\Projects\Öğrenci Takip Programı 1.0\Öğrenci Takip Programı 1.0\obj\Debug\Öğrenci Takip Programı 1.0.csproj.GenerateResource.Cache
+c:\users\serhat şos\documents\visual studio 2017\Projects\Öğrenci Takip Programı 1.0\Öğrenci Takip Programı 1.0\obj\Debug\Öğrenci Takip Programı 1.0.exe
+c:\users\serhat şos\documents\visual studio 2017\Projects\Öğrenci Takip Programı 1.0\Öğrenci Takip Programı 1.0\obj\Debug\Öğrenci Takip Programı 1.0.pdb
+C:\Users\SERHAT ŞOS\Documents\Visual Studio 2017\Projects\Öğrenci Takip Programı 1.0\Öğrenci Takip Programı 1.0\obj\Debug\Öğrenci_Takip_Programı_1._0.Anasayfa.resources
+C:\Users\SERHAT ŞOS\Documents\Visual Studio 2017\Projects\Öğrenci Takip Programı 1.0\Öğrenci Takip Programı 1.0\bin\Debug\AForge.Controls.dll
+C:\Users\SERHAT ŞOS\Documents\Visual Studio 2017\Projects\Öğrenci Takip Programı 1.0\Öğrenci Takip Programı 1.0\bin\Debug\AForge.dll
+C:\Users\SERHAT ŞOS\Documents\Visual Studio 2017\Projects\Öğrenci Takip Programı 1.0\Öğrenci Takip Programı 1.0\bin\Debug\AForge.Imaging.dll
+C:\Users\SERHAT ŞOS\Documents\Visual Studio 2017\Projects\Öğrenci Takip Programı 1.0\Öğrenci Takip Programı 1.0\bin\Debug\AForge.Imaging.Formats.dll
+C:\Users\SERHAT ŞOS\Documents\Visual Studio 2017\Projects\Öğrenci Takip Programı 1.0\Öğrenci Takip Programı 1.0\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\SERHAT ŞOS\Documents\Visual Studio 2017\Projects\Öğrenci Takip Programı 1.0\Öğrenci Takip Programı 1.0\bin\Debug\AForge.Video.dll
+C:\Users\SERHAT ŞOS\Documents\Visual Studio 2017\Projects\Öğrenci Takip Programı 1.0\Öğrenci Takip Programı 1.0\bin\Debug\AForge.Vision.dll
+C:\Users\Serhat\Documents\Visual Studio 2017\Projects\Öğrenci Takip Programı 1.0\Öğrenci Takip Programı 1.0\bin\Debug\Öğrenci Takip Programı 1.0.exe.config
+C:\Users\Serhat\Documents\Visual Studio 2017\Projects\Öğrenci Takip Programı 1.0\Öğrenci Takip Programı 1.0\bin\Debug\Öğrenci Takip Programı 1.0.exe
+C:\Users\Serhat\Documents\Visual Studio 2017\Projects\Öğrenci Takip Programı 1.0\Öğrenci Takip Programı 1.0\bin\Debug\Öğrenci Takip Programı 1.0.pdb
+C:\Users\Serhat\Documents\Visual Studio 2017\Projects\Öğrenci Takip Programı 1.0\Öğrenci Takip Programı 1.0\obj\Debug\Öğrenci Takip Programı 1.0.csprojResolveAssemblyReference.cache
+C:\Users\Serhat\Documents\Visual Studio 2017\Projects\Öğrenci Takip Programı 1.0\Öğrenci Takip Programı 1.0\obj\Debug\Öğrenci_Takip_Programı_1._0.Anasayfa.resources
+C:\Users\Serhat\Documents\Visual Studio 2017\Projects\Öğrenci Takip Programı 1.0\Öğrenci Takip Programı 1.0\obj\Debug\Öğrenci_Takip_Programı_1._0.Form1.resources
+C:\Users\Serhat\Documents\Visual Studio 2017\Projects\Öğrenci Takip Programı 1.0\Öğrenci Takip Programı 1.0\obj\Debug\Öğrenci_Takip_Programı_1._0.Properties.Resources.resources
+C:\Users\Serhat\Documents\Visual Studio 2017\Projects\Öğrenci Takip Programı 1.0\Öğrenci Takip Programı 1.0\obj\Debug\Öğrenci Takip Programı 1.0.csproj.GenerateResource.Cache
+C:\Users\Serhat\Documents\Visual Studio 2017\Projects\Öğrenci Takip Programı 1.0\Öğrenci Takip Programı 1.0\obj\Debug\Öğrenci Takip Programı 1.0.exe
+C:\Users\Serhat\Documents\Visual Studio 2017\Projects\Öğrenci Takip Programı 1.0\Öğrenci Takip Programı 1.0\obj\Debug\Öğrenci Takip Programı 1.0.pdb
+C:\Users\Serhat\Documents\Visual Studio 2017\Projects\Öğrenci Takip Programı 1.0\Öğrenci Takip Programı 1.0\obj\Debug\Öğrenci_Takip_Programı_1._0.DuaVeSureler.resources
+C:\Users\Serhat\Documents\Visual Studio 2017\Projects\Öğrenci Takip Programı 1.0\Öğrenci Takip Programı 1.0\obj\Debug\Öğrenci_Takip_Programı_1._0.YoklamaAlma.resources
+C:\Users\Serhat\Documents\Visual Studio 2017\Projects\Öğrenci Takip Programı 1.0\Öğrenci Takip Programı 1.0\obj\Debug\Öğrenci_Takip_Programı_1._0.ProgramHakkında.resources
